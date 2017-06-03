@@ -1,0 +1,36 @@
+.jumbotron {
+	height: 700px;
+	background: no-repeat center center fixed;
+	background-image: url(images/background.png); 
+  background-size: cover;
+  color: white;
+}
+
+.header-content {
+	margin-top: 200px;
+}
+
+body h1 h2 h3 p {
+	
+}
+
+.btn-primary {
+	color: #000000;
+	background-color: #50E3C2;
+	border: none;
+}
+
+.content-block{
+	height: 500px;
+}
+
+.nav-item {
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.navbar {
+	height: 80px;
+}
+
+$font-family-sans-serif:
