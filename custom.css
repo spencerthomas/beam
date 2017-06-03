@@ -1,9 +1,27 @@
 .jumbotron {
-	height: 700px;
-	background: no-repeat center center fixed;
-	background-image: url(images/background.png); 
-  background-size: cover;
-  color: white;
+		height: 700px;
+	  color: white;
+	  margin-bottom: -15px;
+}
+
+.jumbo-top {
+	  margin-top: -80px;
+	  background: no-repeat center center;
+		background-image: url(images/background.png); 
+	  background-size: cover;
+
+}
+
+.jumbo-footer {
+		height: 700px;
+		background: no-repeat center center;
+		background-image: url(images/footer.png); 
+	  background-size: cover;
+	  color: white;
+}
+
+.jumbo-platform {
+		background-image: url(images/platform-header.png); 
 }
 
 .header-content {
