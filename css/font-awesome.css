@@ -13,8 +13,9 @@
 }
 .fa {
   display: inline-block;
+  text-align: center;
   font: normal normal normal 14px/1 FontAwesome;
-  font-size: inherit;
+  font-size: 72px;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
