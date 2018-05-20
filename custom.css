@@ -81,12 +81,28 @@ footer {
 		background-image: url(images/background.png); 
 		margin-top: -80px;
 	  background-size: cover;
+	  background-position: center;
 }
 
 .jumbo-platform {
 		background-image: url(images/platformheader.png); 
 		margin-top: -80px;
 	  background-size: cover;
+	  background-position: center;
+}
+
+.jumbo-services {
+		background-image: url(images/services.png); 
+		margin-top: -80px;
+	  background-size: cover;
+	  background-position: center;
+}
+
+.jumbo-pricing {
+		background-image: url(images/pricing.png); 
+		margin-top: -80px;
+	  background-size: cover;
+	  background-position: center;
 }
 
 .jumbo-footer {
@@ -94,6 +110,7 @@ footer {
 		background: no-repeat center center;
 		background-image: url(images/footer.png); 
 	  background-size: cover;
+	  background-position: center;
 	  color: white;
 }
 
@@ -146,3 +163,18 @@ i {
 .nav-link:hover {
 	color: #50E3C2;
 }
+
+.pricing-col {
+		background-color: #D8D8D8;
+		min-height: 474px;
+		padding: 25px;
+		margin: 10px;
+		border-radius: 5px;
+	}
+
+.pricing-row {
+			margin-bottom: 180px;
+}
+
+
+
