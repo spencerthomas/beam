@@ -115,7 +115,7 @@ footer {
 }
 
 .jumbo-footer h1 {
-	color: #50E3C2;
+	color: #F96332;
 }
 
 .header-content {
@@ -128,8 +128,8 @@ footer {
 }
 
 .btn-primary {
-	color: #000000;
-	background-color: #50E3C2;
+	color: #ffffff;
+	background-color: #F96332;
 	border: none;
 }
 
@@ -161,15 +161,17 @@ i {
 }
 
 .nav-link:hover {
-	color: #50E3C2;
+	color: #000000;
 }
 
 .pricing-col {
-		background-color: #D8D8D8;
+		background-color: #D3D3D3;
 		min-height: 474px;
 		padding: 25px;
 		margin: 10px;
 		border-radius: 5px;
+		border-color: grey;
+		
 	}
 
 .pricing-row {
